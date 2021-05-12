@@ -5,11 +5,11 @@ public class Cake_Shop {
 		Scanner input = new Scanner(System.in);
 		System.out.println("Welcome to the Cake Shop");
 		System.out.print("Enter name for order: ");
-		String name = input.next();
+		String name = input.nextLine();
 		double shape = 0;
 		while (shape != 1 && shape != 2){
 			System.out.println("Would you like a Round or a Rectangle cake?");
-			System.out.print("(1 Round, 2 Rectangle) :" );
+			System.out.print("(1 Round, 2 Rectangle) : " );
 			shape = input.nextDouble();
 			if (shape != 1 && shape != 2) {
 				System.out.println("INCORRECT VALUE");
