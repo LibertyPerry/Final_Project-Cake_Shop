@@ -1,7 +1,7 @@
 # Final_Project-Cake_Shop
 
 ## Synopsis
-Give overview of project
+This is a program that is disigned for a cake shop. The customer can simply run the code and decide what they want for there cake. (ex Number of tiers, Flavor of cake, Icing type and color, decorations, and lettering)
 
 ## Motivation
 Why did I build this
