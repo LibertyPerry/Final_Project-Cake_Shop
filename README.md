@@ -50,11 +50,3 @@ I am proud of this snippet of code because I can able to create two different ob
 					Total_Price += Base_Price;
 			}
  ```
-![Code Example](https://user-images.githubusercontent.com/77160908/118138724-e4969300-b3c3-11eb-8ecc-a91e661c1eef.png)
-
-## Tests
-how to run the tests with code examples
-
- 
-## Contributors
- 
